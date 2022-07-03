@@ -3,6 +3,7 @@
 
 ## Небольшой личный твиттер на реакте
 
+![icon](https://user-images.githubusercontent.com/56477695/177033079-fa63071a-af5d-4e02-9d33-58de070ea62f.png)
 
 ### Features
 
