@@ -44,9 +44,9 @@ const App = () => {
     // }, [data]);
     
     const defaultValue = [
-        {label: 'Kek', important: false, like: false, id: '1'},
-        {label: 'lol', important: false, like: false, id: '2'},
-        {label: 'sample text', important: false, like: false, id: '3'},
+        {label: 'Пример текста', important: false, like: false, id: '1'},
+        {label: 'Example text', important: false, like: false, id: '2'},
+        {label: 'Sample text', important: false, like: false, id: '3'},
     ];
     const [data, setData] = useLocalStorage("data", defaultValue);
 
