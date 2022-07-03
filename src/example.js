@@ -12,6 +12,7 @@ import App from './components/app';
 //   )
 // }
 
+//    1 способ
 // class WhoAmI extends Component {
 //   constructor(props) {
 //     super(props);
