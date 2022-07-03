@@ -68,7 +68,7 @@ const App = () => {
     }
 
     const onAdd = (body) => {
-        console.log(body);
+        // console.log(body);
         // maxId++;
         setMaxId(maxId + 1);
         const newMessage = {
