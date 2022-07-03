@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Litte-Twitter-React/static/css/main.401111de.css",
+    "main.js": "/Litte-Twitter-React/static/js/main.707f7e16.js",
+    "index.html": "/Litte-Twitter-React/index.html",
+    "main.401111de.css.map": "/Litte-Twitter-React/static/css/main.401111de.css.map",
+    "main.707f7e16.js.map": "/Litte-Twitter-React/static/js/main.707f7e16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.401111de.css",
+    "static/js/main.707f7e16.js"
+  ]
+}
