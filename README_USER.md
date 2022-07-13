@@ -19,7 +19,7 @@
  - Создание личных пользовательских заметок/твитов
  - Поиск заметок/твитов пользователей
 
-## Authors
+## Authors/Авторы
 
 - [@witcherwow240](https://www.github.com/VladimirSaenko)
 - [@AlexanderKhapchenko](https://github.com/AlexanderKhapchenko)
